@@ -1,0 +1,18 @@
+
+{
+  "name": "puente-libre",
+  "private": true,
+  "description": "Guía para enviar dinero de forma privada usando Monero y Pirate Chain.",
+  "version": "1.0.0",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-helmet": "^6.1.0"
+  }
+}
